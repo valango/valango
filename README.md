@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @valango
+<!--- - 👋 Hi, I’m @valango --->
 - 🎹 My favourite tools are Node, MongoDb, GraphQL, Leaflet, Svelte, Vue.
-- 💞️ I’m looking to collaborate on freelance projects as (mainly) a back-end guy.
+<!--- - 💞️ I’m looking to collaborate on freelance projects as (mainly) a back-end guy. --->
 - 🌻 I'm a believer in clean code and and autotesting.
-- 🌱 I’m currently learning Go, AWS, Kafka and Kubernetes.
-- 👀 I prefer to ride the edge.
+<!--- - 🌱 I’m currently learning Go, AWS, Kafka and Kubernetes. --->
+<!--- - 👀 I prefer to ride the edge. --->
 - 📫 You can reach me by just dropping a mail to <villem.alango(at)gmail.com>.
 
 <!---
